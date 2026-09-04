@@ -1,9 +1,9 @@
 ---
-\n[English version](/en/)
 permalink : /
 title: "О себе"
 author_profile: true
 ---
+[English version](/en/)
 
 Меня зовут Дмитрий, я студент направления 09.03.03 в РУДН.
 

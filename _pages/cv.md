@@ -4,6 +4,7 @@ title: "Резюме"
 permalink: /cv/
 author_profile: true
 ---
+[English version](/en/cv/)
 
 {% include base_path %}
 
