@@ -1,4 +1,5 @@
 ---
+\n[English version](/en/)
 permalink : /
 title: "О себе"
 author_profile: true
