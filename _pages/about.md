@@ -19,3 +19,7 @@ Interests
 Education
 ======
 * Бакалавриат, направление 09.03.03 "Прикладная информатика", РУДН, 2023 - н.в.
+ Научные профили
+======
+* ORCID: https://orcid.org/0009-0009-9677-8872
+* Academia.edu: https://independent.academia.edu/Nemo_Google_59БОМБОМ  
