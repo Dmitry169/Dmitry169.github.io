@@ -26,27 +26,27 @@ license: "CC BY"
 
 Устанавливаю Ruby, Bundler и зависимости темы через `dnf install`.
 
-![](фото/1.png){width=70%}
+![](photos/1.png){width=70%}
 
 Создаю репозиторий `Dmitry169.github.io` на основе шаблона academicpages командой `gh repo create`.
 
-![](фото/2.png){width=70%}
+![](photos/2.png){width=70%}
 
 Клонирую шаблон и устанавливаю зависимости Jekyll через `bundle install`.
 
-![](фото/3.png){width=70%}
+![](photos/3.png){width=70%}
 
 Настраиваю `url`/`baseurl` в `_config.yml` и собираю сайт командой `bundle exec jekyll build`.
 
-![](фото/4.png){width=70%}
+![](photos/4.png){width=70%}
 
 Коммичу изменения и отправляю их на GitHub командой `git push`.
 
-![](фото/5.png){width=70%}
+![](photos/5.png){width=70%}
 
 Включаю публикацию через GitHub Pages и проверяю доступность сайта командой `curl` — сервер отвечает кодом 200.
 
-![](фото/6.png){width=70%}
+![](photos/6.png){width=70%}
 
 # Выводы
 

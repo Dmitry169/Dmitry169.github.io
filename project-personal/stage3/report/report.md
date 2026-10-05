@@ -26,19 +26,19 @@ license: "CC BY"
 
 Создаю страницу `cv.md` с разделами Skills, Experience и Accomplishments.
 
-![](фото/1.png){width=70%}
+![](photos/1.png){width=70%}
 
 Пишу второй пост о прошедшей неделе.
 
-![](фото/2.png){width=70%}
+![](photos/2.png){width=70%}
 
 Пишу пост `markdown.md` — тема по выбору «Markdown».
 
-![](фото/3.png){width=70%}
+![](photos/3.png){width=70%}
 
 Коммичу и отправляю изменения на GitHub.
 
-![](фото/4.png){width=70%}
+![](photos/4.png){width=70%}
 
 # Выводы
 

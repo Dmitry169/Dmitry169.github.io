@@ -27,23 +27,23 @@ license: "CC BY"
 
 Размещаю фотографию владельца сайта и начинаю заполнять `about.md` разделом Biography.
 
-![](фото/1.png){width=70%}
+![](photos/1.png){width=70%}
 
 Дополняю `about.md` разделами Interests и Education.
 
-![](фото/2.png){width=70%}
+![](photos/2.png){width=70%}
 
 Завершаю `about.md` и начинаю пост о прошедшей неделе.
 
-![](фото/3.png){width=70%}
+![](photos/3.png){width=70%}
 
 Пишу пост `git-basics.md` — тема по выбору «Управление версиями (Git)».
 
-![](фото/4.png){width=70%}
+![](photos/4.png){width=70%}
 
 Собираю сайт, коммичу и отправляю изменения на GitHub.
 
-![](фото/5.png){width=70%}
+![](photos/5.png){width=70%}
 
 # Выводы
 
